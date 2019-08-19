@@ -1,0 +1,17 @@
+th.col-1,
+td.col-1 {
+    width: 14%;
+    text-overflow: ellipsis;
+}
+
+td.col-1 {
+    height: 100px;
+}
+
+tr.ht-19 {
+    height: 19%;
+}
+
+th {
+    text-align: center;
+}
